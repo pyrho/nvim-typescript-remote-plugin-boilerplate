@@ -1,0 +1,24 @@
+{
+    "name": "nvim-githeat",
+    "version": "1.0.0",
+    "description": "",
+    "main": "./dist/main.js",
+    "source": "./src/main.ts",
+    "scripts": {
+        "build": "tsc",
+        "build:watch": "tsc --watch"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "neovim": "^4.9.0"
+    },
+    "devDependencies": {
+        "@types/node": "^14.0.13",
+        "ava": "^3.8.2",
+        "ts-node": "^8.10.2",
+        "tslint": "^6.1.2",
+        "typescript": "^3.9.5"
+    }
+}
