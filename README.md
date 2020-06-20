@@ -1,8 +1,6 @@
 NeoVim Typescript Remote Plugin Boilerplate
 ===========================================
 
-⚠  Still a work in progress.
-
 The repository aims to provide a base to write [Neovim](https://neovim.io/) plugins using [Typescript](https://www.typescriptlang.org/).
 
 It uses Neovim's [official node js client](https://github.com/neovim/node-client), the example is taken from the node-client repo.
